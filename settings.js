@@ -6,7 +6,7 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || '',
+  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==wa1gzSsRlV0MHZ5k1XTNTSt8UOpZXLWhWO6pGbsFzcClXTidGMtFlNPNWWjoUSihEejlEMpwd=07437930749 ',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
@@ -29,8 +29,8 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
   OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  OWNER_NUMBER: '94703973470',
+  SUDO: '94723737086',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
@@ -44,18 +44,18 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   AUTO_VOICE: true,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
-  AUTO_REACT: true,
+  AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: true,// you want WORK_MODE message send
   AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,// Bot online status
   READ_MESSAGE: false,
   ANTI_MSG_SPAM: false,
   ANTI_BAD_WORD: false,
-  ANTI_VIEW_ONES: false, // This not working now !
+  ANTI_VIEW_ONES: true, // This not working now !
   ANTI_DELETE: true,
   BANED_USER_MSG_SEND: false,
-  BLOCK_CMD_MSG_SEND: true,
-  INBOX_BLOCK_MSG_SEND: true,
+  BLOCK_CMD_MSG_SEND: false,
+  INBOX_BLOCK_MSG_SEND: false,
   CMD_CORRECT: true,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,// disabled
